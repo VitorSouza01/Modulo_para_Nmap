@@ -11,4 +11,8 @@ Este projeto demonstra como utilizar um script personalizado com o Nmap para aut
 - Lua
 <br>
 
-## 🖼️ Imagens
+## 🧠 Como utilizar
+Execute o script com o Nmap usando o seguinte comando:
+<br>
+<pre>nmap -p 80,443 --script ./modulo_para_nmap.lua (alvo)</pre>
+<br>
